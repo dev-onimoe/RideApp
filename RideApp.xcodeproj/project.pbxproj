@@ -16,6 +16,20 @@
 		C9254E952A2B880400A27ECD /* RideAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254E942A2B880400A27ECD /* RideAppTests.swift */; };
 		C9254E9F2A2B880400A27ECD /* RideAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254E9E2A2B880400A27ECD /* RideAppUITests.swift */; };
 		C9254EA12A2B880400A27ECD /* RideAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EA02A2B880400A27ECD /* RideAppUITestsLaunchTests.swift */; };
+		C9254EAF2A2B8A9500A27ECD /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EAE2A2B8A9500A27ECD /* Constants.swift */; };
+		C9254EB32A2B8E1B00A27ECD /* PhoneNumberViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EB22A2B8E1B00A27ECD /* PhoneNumberViewController.swift */; };
+		C9254EB52A2B90CA00A27ECD /* Roboto in Resources */ = {isa = PBXBuildFile; fileRef = C9254EB42A2B90CA00A27ECD /* Roboto */; };
+		C9254EB72A2C731800A27ECD /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EB62A2C731800A27ECD /* Extensions.swift */; };
+		C9254EB92A2C78AB00A27ECD /* CountryPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EB82A2C78AB00A27ECD /* CountryPickerViewController.swift */; };
+		C9254EBC2A2C78D400A27ECD /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EBB2A2C78D400A27ECD /* Country.swift */; };
+		C9254EBF2A2C819E00A27ECD /* CountryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EBE2A2C819E00A27ECD /* CountryTableViewCell.swift */; };
+		C9254EC12A2C849400A27ECD /* Observable.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EC02A2C849400A27ECD /* Observable.swift */; };
+		C9254EC42A2C84DF00A27ECD /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EC32A2C84DF00A27ECD /* AuthViewModel.swift */; };
+		C9254EC72A2C85CA00A27ECD /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EC62A2C85CA00A27ECD /* Service.swift */; };
+		C9254EC92A2C897800A27ECD /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254EC82A2C897800A27ECD /* User.swift */; };
+		C9254ECB2A2CDBBE00A27ECD /* MailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254ECA2A2CDBBE00A27ECD /* MailViewController.swift */; };
+		C9254ECD2A2CDBCB00A27ECD /* NameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254ECC2A2CDBCB00A27ECD /* NameViewController.swift */; };
+		C9254ECF2A2CDBE600A27ECD /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9254ECE2A2CDBE600A27ECD /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +63,20 @@
 		C9254E9A2A2B880400A27ECD /* RideAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RideAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9254E9E2A2B880400A27ECD /* RideAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideAppUITests.swift; sourceTree = "<group>"; };
 		C9254EA02A2B880400A27ECD /* RideAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C9254EAE2A2B8A9500A27ECD /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		C9254EB22A2B8E1B00A27ECD /* PhoneNumberViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneNumberViewController.swift; sourceTree = "<group>"; };
+		C9254EB42A2B90CA00A27ECD /* Roboto */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Roboto; sourceTree = "<group>"; };
+		C9254EB62A2C731800A27ECD /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		C9254EB82A2C78AB00A27ECD /* CountryPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryPickerViewController.swift; sourceTree = "<group>"; };
+		C9254EBB2A2C78D400A27ECD /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		C9254EBE2A2C819E00A27ECD /* CountryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryTableViewCell.swift; sourceTree = "<group>"; };
+		C9254EC02A2C849400A27ECD /* Observable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Observable.swift; sourceTree = "<group>"; };
+		C9254EC32A2C84DF00A27ECD /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
+		C9254EC62A2C85CA00A27ECD /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		C9254EC82A2C897800A27ECD /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		C9254ECA2A2CDBBE00A27ECD /* MailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailViewController.swift; sourceTree = "<group>"; };
+		C9254ECC2A2CDBCB00A27ECD /* NameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
+		C9254ECE2A2CDBE600A27ECD /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +127,15 @@
 		C9254E7C2A2B880000A27ECD /* RideApp */ = {
 			isa = PBXGroup;
 			children = (
+				C9254EB42A2B90CA00A27ECD /* Roboto */,
 				C9254E7D2A2B880000A27ECD /* AppDelegate.swift */,
 				C9254E7F2A2B880000A27ECD /* SceneDelegate.swift */,
-				C9254E812A2B880000A27ECD /* ViewController.swift */,
+				C9254EC52A2C85B600A27ECD /* Network */,
+				C9254EC22A2C84C900A27ECD /* ViewModels */,
+				C9254EBD2A2C817300A27ECD /* Custom classes */,
+				C9254EBA2A2C78C200A27ECD /* Models */,
+				C9254EAD2A2B8A7400A27ECD /* Helpers */,
+				C9254EB12A2B8C8E00A27ECD /* ViewControllers */,
 				C9254E832A2B880000A27ECD /* Main.storyboard */,
 				C9254E862A2B880300A27ECD /* Assets.xcassets */,
 				C9254E882A2B880300A27ECD /* LaunchScreen.storyboard */,
@@ -125,6 +159,62 @@
 				C9254EA02A2B880400A27ECD /* RideAppUITestsLaunchTests.swift */,
 			);
 			path = RideAppUITests;
+			sourceTree = "<group>";
+		};
+		C9254EAD2A2B8A7400A27ECD /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				C9254EAE2A2B8A9500A27ECD /* Constants.swift */,
+				C9254EB62A2C731800A27ECD /* Extensions.swift */,
+				C9254EC02A2C849400A27ECD /* Observable.swift */,
+			);
+			name = Helpers;
+			sourceTree = "<group>";
+		};
+		C9254EB12A2B8C8E00A27ECD /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				C9254E812A2B880000A27ECD /* ViewController.swift */,
+				C9254EB22A2B8E1B00A27ECD /* PhoneNumberViewController.swift */,
+				C9254EB82A2C78AB00A27ECD /* CountryPickerViewController.swift */,
+				C9254ECA2A2CDBBE00A27ECD /* MailViewController.swift */,
+				C9254ECC2A2CDBCB00A27ECD /* NameViewController.swift */,
+				C9254ECE2A2CDBE600A27ECD /* HomeViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		C9254EBA2A2C78C200A27ECD /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C9254EBB2A2C78D400A27ECD /* Country.swift */,
+				C9254EC82A2C897800A27ECD /* User.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C9254EBD2A2C817300A27ECD /* Custom classes */ = {
+			isa = PBXGroup;
+			children = (
+				C9254EBE2A2C819E00A27ECD /* CountryTableViewCell.swift */,
+			);
+			path = "Custom classes";
+			sourceTree = "<group>";
+		};
+		C9254EC22A2C84C900A27ECD /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				C9254EC32A2C84DF00A27ECD /* AuthViewModel.swift */,
+			);
+			name = ViewModels;
+			sourceTree = "<group>";
+		};
+		C9254EC52A2C85B600A27ECD /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				C9254EC62A2C85CA00A27ECD /* Service.swift */,
+			);
+			path = Network;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,6 +324,7 @@
 				C9254E8A2A2B880300A27ECD /* LaunchScreen.storyboard in Resources */,
 				C9254E872A2B880300A27ECD /* Assets.xcassets in Resources */,
 				C9254E852A2B880000A27ECD /* Main.storyboard in Resources */,
+				C9254EB52A2B90CA00A27ECD /* Roboto in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +349,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9254EC92A2C897800A27ECD /* User.swift in Sources */,
+				C9254ECB2A2CDBBE00A27ECD /* MailViewController.swift in Sources */,
+				C9254EBF2A2C819E00A27ECD /* CountryTableViewCell.swift in Sources */,
 				C9254E822A2B880000A27ECD /* ViewController.swift in Sources */,
+				C9254EB72A2C731800A27ECD /* Extensions.swift in Sources */,
 				C9254E7E2A2B880000A27ECD /* AppDelegate.swift in Sources */,
+				C9254EB32A2B8E1B00A27ECD /* PhoneNumberViewController.swift in Sources */,
+				C9254EC72A2C85CA00A27ECD /* Service.swift in Sources */,
+				C9254EBC2A2C78D400A27ECD /* Country.swift in Sources */,
+				C9254EC12A2C849400A27ECD /* Observable.swift in Sources */,
+				C9254EC42A2C84DF00A27ECD /* AuthViewModel.swift in Sources */,
+				C9254ECF2A2CDBE600A27ECD /* HomeViewController.swift in Sources */,
+				C9254EB92A2C78AB00A27ECD /* CountryPickerViewController.swift in Sources */,
 				C9254E802A2B880000A27ECD /* SceneDelegate.swift in Sources */,
+				C9254EAF2A2B8A9500A27ECD /* Constants.swift in Sources */,
+				C9254ECD2A2CDBCB00A27ECD /* NameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -445,6 +549,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -473,6 +578,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
